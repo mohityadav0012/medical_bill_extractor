@@ -1,0 +1,11 @@
+paddlepaddle
+paddleocr
+pdf2image
+opencv-python
+numpy
+fastapi
+uvicorn
+python-multipart
+pydantic
+python-dotenv       
+tqdm 
